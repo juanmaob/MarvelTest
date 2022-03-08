@@ -1,0 +1,42 @@
+package com.seventhson.marvel.ui.common.views
+
+import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.size
+import androidx.compose.material.CircularProgressIndicator
+import androidx.compose.runtime.Composable
+import androidx.compose.runtime.State
+import androidx.compose.ui.Alignment
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.tooling.preview.Preview
+import androidx.compose.ui.unit.dp
+import com.seventhson.marvel.ui.theme.RedMarvel
+
+@Composable
+fun Loading(isLoading: State<Boolean>) {
+    if (isLoading.value) {
+        SpinnerCircular()
+    }
+
+}
+
+@Preview
+@Composable
+fun LoadingPreview() {
+    SpinnerCircular()
+}
+
+@Composable
+fun SpinnerCircular() {
+    Box(
+        modifier = Modifier
+            .fillMaxSize(),
+        contentAlignment = Alignment.Center,
+
+        ) {
+        CircularProgressIndicator(
+            modifier = Modifier.size(32.dp),
+            color = RedMarvel
+        )
+    }
+}

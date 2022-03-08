@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Marvel</string>
+    <string name="name">Name</string>
+    <string name="comics_num">Comics</string>
+    <string name="modified_date">Last Modified</string>
+    <string name="description">Description</string>
+</resources>

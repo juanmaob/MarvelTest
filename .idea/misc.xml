@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/juanm/Documents/Workspace/Otros/OpenBank/MarvelOpenBank/app/src/main/res/drawable/ic_igdb_pruple.xml" value="0.167" />
+        <entry key="..\:/Users/juanm/Documents/Workspace/Otros/OpenBank/MarvelOpenBank/app/src/main/res/drawable/ic_logo.xml" value="0.167" />
+        <entry key="..\:/Users/juanm/Documents/Workspace/Otros/OpenBank/MarvelOpenBank/app/src/main/res/drawable/ic_marvel_red.xml" value="0.167" />
+        <entry key="..\:/Users/juanm/Documents/Workspace/Otros/OpenBank/MarvelOpenBank/app/src/main/res/drawable/rounded_background_snackbar.xml" value="0.167" />
+        <entry key="..\:/Users/juanm/Documents/Workspace/Otros/Pinch/Games/app/src/main/res/drawable/ic_icewind_logo__1_.xml" value="0.3505" />
+        <entry key="..\:/Users/juanm/Documents/Workspace/Otros/Pinch/Games/app/src/main/res/drawable/rounded_background_icon.xml" value="0.3505" />
+        <entry key="..\:/Users/juanm/Documents/Workspace/Otros/Pinch/Games/app/src/main/res/drawable/rounded_background_snackbar.xml" value="0.3505" />
+        <entry key="..\:/Users/juanm/Documents/Workspace/Otros/Pinch/Games/app/src/main/res/layout/activity_detail.xml" value="0.2171875" />
+        <entry key="..\:/Users/juanm/Documents/Workspace/Otros/Pinch/Games/app/src/main/res/layout/activity_main.xml" value="0.2171875" />
+        <entry key="..\:/Users/juanm/Documents/Workspace/Otros/Pinch/Games/app/src/main/res/layout/content_detail.xml" value="0.36302083333333335" />
+        <entry key="..\:/Users/juanm/Documents/Workspace/Otros/Pinch/Games/app/src/main/res/layout/item_character.xml" value="0.2171875" />
+        <entry key="..\:/Users/juanm/Documents/Workspace/Otros/Pinch/Games/app/src/main/res/layout/loading_layout.xml" value="0.2171875" />
+        <entry key="..\:/Users/juanm/Documents/Workspace/Otros/Pinch/Games/app/src/main/res/layout/snackbar_layout.xml" value="0.36302083333333335" />
+        <entry key="..\:/Users/juanm/Documents/Workspace/Otros/Pinch/GamesCompose/app/src/main/res/drawable/ic_episode_list.xml" value="0.194" />
+        <entry key="..\:/Users/juanm/Documents/Workspace/Otros/Pinch/GamesCompose/app/src/main/res/drawable/ic_info.xml" value="0.194" />
+        <entry key="..\:/Users/juanm/Documents/Workspace/Otros/Pinch/GamesCompose/app/src/main/res/drawable/ic_logo.xml" value="0.194" />
+        <entry key="..\:/Users/juanm/Documents/Workspace/Otros/Pinch/GamesCompose/app/src/main/res/layout/activity_detail.xml" value="0.1859375" />
+        <entry key="..\:/Users/juanm/Documents/Workspace/Otros/Pinch/GamesCompose/app/src/main/res/layout/activity_main.xml" value="0.1859375" />
+        <entry key="..\:/Users/juanm/Documents/Workspace/Otros/Pinch/GamesCompose/app/src/main/res/layout/content_detail.xml" value="0.1859375" />
+        <entry key="..\:/Users/juanm/Documents/Workspace/Otros/Pinch/GamesCompose/app/src/main/res/layout/item_character.xml" value="0.1859375" />
+        <entry key="..\:/Users/juanm/Documents/Workspace/Otros/Pinch/GamesCompose/app/src/main/res/layout/loading_layout.xml" value="0.1859375" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
